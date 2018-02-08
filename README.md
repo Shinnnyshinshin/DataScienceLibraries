@@ -6,7 +6,7 @@ Here is an introduction to some of the most popular data-science related Python 
 * NumPy [done]
 * SciPy [done]
 * Matplotlib [done]
-* Pandas
+* Pandas [done]
 * Statsmodels
 * Scikit-learn
 * Seaborn
