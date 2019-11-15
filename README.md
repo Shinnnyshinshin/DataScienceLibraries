@@ -9,7 +9,7 @@ Here is an introduction to some of the most popular data-science related Python 
 * Pandas [done]
 * Statsmodels [done]
 * Seaborn [done]
-* Scikit-learn
+* Scikit-learn [done]
 * NetworkX
 * PyMC
 * NLTK
